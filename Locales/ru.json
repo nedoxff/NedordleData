@@ -1,0 +1,9 @@
+{
+  "Ping_BeforeMessages": ["секунду", "считаю..", "ээээ", "генерирую случайное число..", "гуглю.."],
+  "Ping_AfterMessages": ["a", "не пугай меня так!!", "бип буп", "`Segmentation fault (core dumped)`"],
+  "Ping": "Пинг",
+  "Ping_ClientLatency": "Задержка клиента",
+  "Ping_MessageLatency": "Задержка между сообщениями",
+
+  "Metrics_ms": "мс"
+}
