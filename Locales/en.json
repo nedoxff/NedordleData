@@ -5,5 +5,10 @@
   "Ping_ClientLatency": "Client latency",
   "Ping_MessageLatency": "Message latency",
   
-  "Metrics_ms": "ms"
+  "Metrics_ms": "ms",
+
+  "ShortName": "en",
+  "FullName": "English",
+  "NativeName": "English",
+  "Flag": "\uD83C\uDDEC\uD83C\uDDE7"
 }
