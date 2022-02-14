@@ -1,6 +1,5 @@
 /*
   Please maintain the amount of spaces/newlines contained here (so that it is easier to read).
-  Strings like {...} should not be localised, they are used for formatting.
 */
 
 {
@@ -14,7 +13,7 @@
   //Command: locale
   "SelectLocale_MainText": "Select the new language in the dropdown menu below.",
   "SelectLocale_Placeholder": "Select the new language..",
-  "SelectLocale_Success": "Successfully changed the server's language to `{Locale}`.",
+  "SelectLocale_Success": "Successfully changed the server's language to `{0}`.",
   
   //Metrics
   "Metrics_ms": "ms",
