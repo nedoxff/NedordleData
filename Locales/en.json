@@ -1,12 +1,28 @@
+/*
+  Please maintain the amount of spaces/newlines contained here (so that it is easier to read).
+  Strings like {...} should not be localised, they are used for formatting.
+*/
+
 {
+  //Command: ping
   "Ping_BeforeMessages": ["one sec", "calculating..", "uuuh", "generating a random number..", "googling.."],
   "Ping_AfterMessages": ["a", "dont scare me like that!!", "beep boop", "`Segmentation fault (core dumped)`"],
   "Ping": "Ping",
   "Ping_ClientLatency": "Client latency",
   "Ping_MessageLatency": "Message latency",
   
+  //Command: locale
+  "SelectLocale_MainText": "Select the new language in the dropdown menu below.",
+  "SelectLocale_Placeholder": "Select the new language..",
+  "SelectLocale_Success": "Successfully changed the server's language to `{Locale}`.",
+  
+  //Metrics
   "Metrics_ms": "ms",
 
+  //Error messages
+  "TimedOut": "Timed out!",
+
+  //Locale information
   "ShortName": "en",
   "FullName": "English",
   "NativeName": "English",
