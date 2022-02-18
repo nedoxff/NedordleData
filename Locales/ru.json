@@ -14,12 +14,27 @@
   "SelectLocale_MainText": "Выберите новый язык в меню ниже.",
   "SelectLocale_Placeholder": "Выберите новый язык..",
   "SelectLocale_Success": "Язык сервера успешно изменён на `{0}`.",
-
+  
+  //Command: create
+  "Create_SelectGameType": "Выберите режим игры..",
+  "Create_SelectLanguage": "Выберите язык..",
+  "Create_SelectLength": "Выберите длину слова..",
+  "Create_DMs": "Будем ли играть в ЛС?",
+  "Create_Done": "Вот твой ID для входа в игру: `{0}`",
+  "Create_Creating": "Создаю игру..",
+  
   //Metrics
   "Metrics_ms": "мс",
 
   //Error messages
   "TimedOut": "Время вышло!",
+  
+  //General
+  "Yes": "Да",
+  "No": "Нет",
+  //I hate Russian sometimes
+  "Random": "Случайн(ая/ый/ое)",
+  "PleaseWait": "Пожалуйста, подождите..",
   
   //Locale information
   "ShortName": "ru",
