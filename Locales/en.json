@@ -39,5 +39,18 @@
   "ShortName": "en",
   "FullName": "English",
   "NativeName": "English",
-  "Flag": "\uD83C\uDDEC\uD83C\uDDE7"
+  "Flag": "\uD83C\uDDEC\uD83C\uDDE7",
+
+  //Game Types
+  "GameTypes": {
+    "usual": {
+      "Name": "Usual",
+      "Id": "usual",
+      "FullDescription": "The same wordle you would find in https://www.nytimes.com/games/wordle/index.html, but in Discord.",
+      "ShortDescription": "Standard, one player wordle with 5 letters.",
+      "Emoji": "\uD83D\uDFE9",
+      "IsMultiplayer": false,
+      "AllowMultipleLength": false
+    }
+  }
 }

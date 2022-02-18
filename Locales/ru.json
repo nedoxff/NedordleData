@@ -40,5 +40,18 @@
   "ShortName": "ru",
   "FullName": "Russian",
   "NativeName": "Русский",
-  "Flag": "\uD83C\uDDF7\uD83C\uDDFA"
+  "Flag": "\uD83C\uDDF7\uD83C\uDDFA",
+  
+  //Game Types
+  "GameTypes": {
+    "usual": {
+      "Name": "Обычный",
+      "Id": "usual",
+      "FullDescription": "Это такой же wordle который можно найти на https://www.nytimes.com/games/wordle/index.html, только в дискорде.",
+      "ShortDescription": "Обычный, одиночный wordle с 5ю буквами.",
+      "Emoji": "\uD83D\uDFE9",
+      "IsMultiplayer": false,
+      "AllowMultipleLength": false
+    }
+  }
 }
