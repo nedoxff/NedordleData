@@ -22,6 +22,7 @@
   "Create_DMs": "Будем ли играть в ЛС?",
   "Create_Done": "Вот твой ID для входа в игру: `{0}`",
   "Create_Creating": "Создаю игру..",
+  "Create_LanguageDescription": "В языке {0} ({1}) на текущий момент доступно {2} слов.",
   
   //Metrics
   "Metrics_ms": "мс",

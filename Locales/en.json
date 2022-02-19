@@ -22,6 +22,7 @@
   "Create_DMs": "Do you want to play in DMs?",
   "Create_Done": "Here is your game ID: `{0}`",
   "Create_Creating": "Creating the game..",
+  "Create_LanguageDescription": "{0} ({1}) currently has {2} words available.",
   
   //Metrics
   "Metrics_ms": "ms",
