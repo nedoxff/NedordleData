@@ -48,6 +48,7 @@
   //Game type: Usual
   "Usual_Start": "I imagined a word. You can start guessing! (just type the word in chat)",
   "Usual_InvalidLength": "Your word did not contain *5* letters!",
+  "Usual_InvalidWord": "Hmm.. I don't have this word in my dictionary..",
 
   //Game Types
   "GameTypes": {

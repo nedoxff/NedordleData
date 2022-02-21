@@ -49,6 +49,7 @@
   //Game type: Usual
   "Usual_Start": "Я загадал слово. Можешь начинать гадать! (просто напиши слово в чат)",
   "Usual_InvalidLength": "Твоё слово не состоит из *5* символов!",
+  "Usual_InvalidWord": "Хм... Такого слова нет в моём словаре..",
   
   //Game Types
   "GameTypes": {
