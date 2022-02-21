@@ -9,11 +9,6 @@
   "Ping": "Пинг",
   "Ping_ClientLatency": "Задержка клиента",
   "Ping_MessageLatency": "Задержка между сообщениями",
-
-  //Command: locale
-  "SelectLocale_MainText": "Выберите новый язык в меню ниже.",
-  "SelectLocale_Placeholder": "Выберите новый язык..",
-  "SelectLocale_Success": "Язык сервера успешно изменён на `{0}`.",
   
   //Command: create
   "Create_SelectGameType": "Выберите режим игры..",
@@ -23,12 +18,20 @@
   "Create_Done": "Вот твой ID для входа в игру: `{0}`",
   "Create_Creating": "Создаю игру..",
   "Create_LanguageDescription": "В языке {0} ({1}) на текущий момент доступно {2} слов.",
+
+  //Command: troubleshoot
+  "Troubleshoot_FindingIssues": "Поиск проблем..",
+  "Troubleshoot_Server": "Поиск сервера в базе данных",
+  "Troubleshoot_Fixing": "Исправление проблем..",
+  "Troubleshoot_Done": "Готово!",
+  "Troubleshoot_NoIssues": "Проблем нет.",
   
   //Metrics
   "Metrics_ms": "мс",
 
   //Error messages
   "TimedOut": "Время вышло!",
+  "GuildNotInDatabase": "Вашего сервера нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
   
   //General
   "Yes": "Да",

@@ -10,11 +10,6 @@
   "Ping_ClientLatency": "Client latency",
   "Ping_MessageLatency": "Message latency",
   
-  //Command: locale
-  "SelectLocale_MainText": "Select the new language in the dropdown menu below.",
-  "SelectLocale_Placeholder": "Select the new language..",
-  "SelectLocale_Success": "Successfully changed the server's language to `{0}`.",
-  
   //Command: create
   "Create_SelectGameType": "Select the game mode..",
   "Create_SelectLanguage": "Select the language..",
@@ -24,11 +19,19 @@
   "Create_Creating": "Creating the game..",
   "Create_LanguageDescription": "{0} ({1}) currently has {2} words available.",
   
+  //Command: troubleshoot
+  "Troubleshoot_FindingIssues": "Finding issues..",
+  "Troubleshoot_Server": "Checking for server in the database",
+  "Troubleshoot_Fixing": "Fixing issues..",
+  "Troubleshoot_Done": "Done!",
+  "Troubleshoot_NoIssues": "No issues found.",
+  
   //Metrics
   "Metrics_ms": "ms",
 
   //Error messages
   "TimedOut": "Timed out!",
+  "GuildNotInDatabase": "Your server is not in the database! Please run `/troubleshoot`.",
 
   //General
   "Yes": "Yes",
