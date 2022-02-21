@@ -45,6 +45,10 @@
   "NativeName": "English",
   "Flag": "\uD83C\uDDEC\uD83C\uDDE7",
 
+  //Game type: Usual
+  "Usual_Start": "I imagined a word. You can start guessing! (just type the word in chat)",
+  "Usual_InvalidLength": "Your word did not contain *5* letters!",
+
   //Game Types
   "GameTypes": {
     "usual": {

@@ -46,6 +46,10 @@
   "NativeName": "Русский",
   "Flag": "\uD83C\uDDF7\uD83C\uDDFA",
   
+  //Game type: Usual
+  "Usual_Start": "Я загадал слово. Можешь начинать гадать! (просто напиши слово в чат)",
+  "Usual_InvalidLength": "Твоё слово не состоит из *5* символов!",
+  
   //Game Types
   "GameTypes": {
     "usual": {
