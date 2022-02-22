@@ -44,11 +44,15 @@
   "FullName": "English",
   "NativeName": "English",
   "Flag": "\uD83C\uDDEC\uD83C\uDDE7",
-
-  //Game type: Usual
-  "Usual_Start": "I imagined a word. You can start guessing! (just type the word in chat)",
-  "Usual_InvalidLength": "Your word did not contain *5* letters!",
-  "Usual_InvalidWord": "Hmm.. I don't have this word in my dictionary..",
+  
+  //General game type information
+  "Game_ChannelInfo": "The channel will be removed in one minute.",
+  "Game_Start": "I imagined a word. You can start guessing! (just type the word in chat)",
+  "Game_InvalidLength": "Your word did not contain `{0}` letters!",
+  "Game_InvalidWord": "Hmm.. I don't have this word in my dictionary..",
+  "Game_Win": "Congratulations! You got the word!",
+  "Game_Defeat": "Welp, you lost!",
+  "Game_PlayAgain": "Would you like to play again?",
 
   //Game Types
   "GameTypes": {

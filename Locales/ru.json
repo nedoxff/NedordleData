@@ -45,11 +45,15 @@
   "FullName": "Russian",
   "NativeName": "Русский",
   "Flag": "\uD83C\uDDF7\uD83C\uDDFA",
-  
-  //Game type: Usual
-  "Usual_Start": "Я загадал слово. Можешь начинать гадать! (просто напиши слово в чат)",
-  "Usual_InvalidLength": "Твоё слово не состоит из *5* символов!",
-  "Usual_InvalidWord": "Хм... Такого слова нет в моём словаре..",
+
+  //General game type information
+  "Game_ChannelInfo": "Канал будет удалён через одну минуту.",
+  "Game_Start": "Я загадал слово, можешь начинать думать! (просто пиши слова в чате)",
+  "Game_InvalidLength": "В твоём слове не `{0}` букв!",
+  "Game_InvalidWord": "Хм.. Я не могу найти такое слово в моём словаре..",
+  "Game_Win": "Поздравляю! Ты угадал слово!",
+  "Game_Defeat": "Что ж, ты проиграл",
+  "Game_PlayAgain": "Хотите сыграть ещё раз?",
   
   //Game Types
   "GameTypes": {
