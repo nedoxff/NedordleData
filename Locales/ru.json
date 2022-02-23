@@ -54,6 +54,7 @@
   "Game_Win": "Поздравляю! Ты угадал слово!",
   "Game_Defeat": "Что ж, ты проиграл",
   "Game_PlayAgain": "Хотите сыграть ещё раз?",
+  "Game_AlreadyUsed": "Это слово уже было использовано!",
   
   //Game Types
   "GameTypes": {

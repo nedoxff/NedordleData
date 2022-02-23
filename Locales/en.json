@@ -53,6 +53,7 @@
   "Game_Win": "Congratulations! You got the word!",
   "Game_Defeat": "Welp, you lost!",
   "Game_PlayAgain": "Would you like to play again?",
+  "Game_AlreadyUsed": "This word was already used!",
 
   //Game Types
   "GameTypes": {
