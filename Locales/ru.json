@@ -24,6 +24,7 @@
   //Command: troubleshoot
   "Troubleshoot_FindingIssues": "Поиск проблем..",
   "Troubleshoot_Server": "Поиск сервера в базе данных",
+  "Troubleshoot_User": "Поиск игрока в базе данных",
   "Troubleshoot_Fixing": "Исправление проблем..",
   "Troubleshoot_Done": "Готово!",
   "Troubleshoot_NoIssues": "Проблем нет.",
