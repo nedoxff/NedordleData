@@ -42,7 +42,7 @@
   "Metrics_ms": "мс",
 
   //Error messages
-  "NotPermitted": "You are not permitted to execute this command!",
+  "NotPermitted": "У вас нет прав на выполнение этой команды!",
   "TimedOut": "Время вышло!",
   "GuildNotInDatabase": "Вашего сервера нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
   
