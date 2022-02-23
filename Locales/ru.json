@@ -1,5 +1,7 @@
 /*
   Please maintain the amount of spaces/newlines contained here (so that it is easier to read).
+  Sequences in curly brackets (like {0} or {1} for example) should not be modified.
+  Variable names (everything before the ":") should also not be localized.
 */
 
 {
@@ -25,11 +27,22 @@
   "Troubleshoot_Fixing": "Исправление проблем..",
   "Troubleshoot_Done": "Готово!",
   "Troubleshoot_NoIssues": "Проблем нет.",
+
+  //Command: settings server
+  "ServerSettings_DMs": "Нельзя изменять настройки сервера в ЛС!",
+  "ServerSettings_AllowCreatingChannels": "Разрешить создавать каналы",
+  "ServerSettings_DisallowCreatingChannels": "Запретить создавать каналы",
+  "ServerSettings_SelectCreateCategory": "Выбрать категорию для игр",
+  "ServerSettings_Info_AllowCreatingChannels": "Разрешить создание каналов",
+  "ServerSettings_Info_CreateCategory": "Категория для игр",
+  "ServerSettings_Title": "Настройки сервера",
+  "ServerSettings_SelectCategory": "Выберите категорию для игр..",
   
   //Metrics
   "Metrics_ms": "мс",
 
   //Error messages
+  "NotPermitted": "You are not permitted to execute this command!",
   "TimedOut": "Время вышло!",
   "GuildNotInDatabase": "Вашего сервера нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
   
@@ -39,6 +52,10 @@
   //I hate Russian sometimes
   "Random": "Случайн(ая/ый/ое)",
   "PleaseWait": "Пожалуйста, подождите..",
+  "ApplyingChanges": "Applying changes..",
+  "Done": "Готово!",
+  "None": "Нет",
+  "Apply": "Применить",
   
   //Locale information
   "ShortName": "ru",

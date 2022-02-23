@@ -1,5 +1,7 @@
 /*
   Please maintain the amount of spaces/newlines contained here (so that it is easier to read).
+  Sequences in curly brackets (like {0} or {1} for example) should not be modified.
+  Variable names (everything before the ":") should also not be localized.
 */
 
 {
@@ -26,10 +28,21 @@
   "Troubleshoot_Done": "Done!",
   "Troubleshoot_NoIssues": "No issues found.",
   
+  //Command: settings server
+  "ServerSettings_DMs": "Cannot change server settings in DMs!",
+  "ServerSettings_AllowCreatingChannels": "Allow creating channels",
+  "ServerSettings_DisallowCreatingChannels": "Disallow creating channels",
+  "ServerSettings_SelectCreateCategory": "Select game storage category",
+  "ServerSettings_Info_AllowCreatingChannels": "Allow creating channels",
+  "ServerSettings_Info_CreateCategory": "Game storage category",
+  "ServerSettings_Title": "Server settings",
+  "ServerSettings_SelectCategory": "Select game storage category..",
+  
   //Metrics
   "Metrics_ms": "ms",
 
   //Error messages
+  "NotPermitted": "You are not permitted to execute this command!",
   "TimedOut": "Timed out!",
   "GuildNotInDatabase": "Your server is not in the database! Please run `/troubleshoot`.",
 
@@ -38,6 +51,10 @@
   "No": "No",
   "Random": "Random",
   "PleaseWait": "Please wait..",
+  "ApplyingChanges": "Applying changes..",
+  "Done": "Done!",
+  "None": "None",
+  "Apply": "Apply",
 
   //Locale information
   "ShortName": "en",
