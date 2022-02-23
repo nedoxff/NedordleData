@@ -51,7 +51,7 @@
   "Game_InvalidLength": "Your word did not contain `{0}` letters!",
   "Game_InvalidWord": "Hmm.. I don't have this word in my dictionary..",
   "Game_Win": "Congratulations! You got the word!",
-  "Game_Defeat": "Welp, you lost!",
+  "Game_Defeat": "Welp, you lost! The word was `{0}`.",
   "Game_PlayAgain": "Would you like to play again?",
   "Game_AlreadyUsed": "This word was already used!",
 
