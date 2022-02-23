@@ -36,7 +36,7 @@
   "ServerSettings_Info_AllowCreatingChannels": "Разрешить создание каналов",
   "ServerSettings_Info_CreateCategory": "Категория для игр",
   "ServerSettings_Title": "Настройки сервера",
-  "ServerSettings_SelectCategory": "Выберите категорию для игр..",
+  "ServerSettings_SelectCategory": "Выберите категорию..",
   
   //Metrics
   "Metrics_ms": "мс",

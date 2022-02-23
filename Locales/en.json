@@ -36,7 +36,7 @@
   "ServerSettings_Info_AllowCreatingChannels": "Allow creating channels",
   "ServerSettings_Info_CreateCategory": "Game storage category",
   "ServerSettings_Title": "Server settings",
-  "ServerSettings_SelectCategory": "Select game storage category..",
+  "ServerSettings_SelectCategory": "Select the category..",
   
   //Metrics
   "Metrics_ms": "ms",
