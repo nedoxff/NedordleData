@@ -79,8 +79,8 @@
     "usual": {
       "Name": "Usual",
       "Id": "usual",
-      "FullDescription": "The same wordle you would find in https://www.nytimes.com/games/wordle/index.html, but in Discord.",
-      "ShortDescription": "Standard, one player wordle with 5 letters.",
+      "FullDescription": "The same Wordle you would find in https://www.nytimes.com/games/wordle/index.html, but in Discord.",
+      "ShortDescription": "Standard, one player Wordle with 5 letters.",
       "Emoji": "\uD83D\uDFE9",
       "IsMultiplayer": false,
       "AllowDifferentLength": false
@@ -88,11 +88,21 @@
     "custom": {
       "Name": "Custom",
       "Id": "custom",
-      "FullDescription": "This is wordle, but you can select different word lengths and attempt counts.",
+      "FullDescription": "This is Wordle, but you can select different word lengths.",
       "ShortDescription": "Wordle, but with your own twist.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,
       "AllowDifferentLength": true
+    },
+    "teamrace":
+    {
+      "Name": "Team Race",
+      "Id": "teamrace",
+      "FullDescription": "You join a team of people, and you are all given the same word. Whoever guesses the word first wins!",
+      "ShortDescription": "Guess the word the fastest among a team of players!",
+      "Emoji": "\uD83C\uDFC3\u200D♂️",
+      "IsMultiplayer": true,
+      "AllowDifferentLength": true,
     }
   },
   

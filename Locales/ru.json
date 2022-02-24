@@ -89,11 +89,21 @@
     "custom": {
       "Name": "Свой",
       "Id": "custom",
-      "FullDescription": "Тот же Wordle, но разрешается выбрать свою длину слова и количество попыток.",
+      "FullDescription": "Тот же Wordle, но разрешается выбрать свою длину слова.",
       "ShortDescription": "Wordle, но со своими настройками.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,
       "AllowMultipleLength": true
+    },
+    "teamrace":
+    {
+      "Name": "Гонка в группе",
+      "Id": "teamrace",
+      "FullDescription": "Ты присоединяешься к группе людей и вам дают одно слово. Победит тот, кто угадает его первым!",
+      "ShortDescription": "Угадай слово первым среди группы игроков!",
+      "Emoji": "\uD83C\uDFC3\u200D♂️",
+      "IsMultiplayer": true,
+      "AllowDifferentLength": true,
     }
   },
 
