@@ -16,6 +16,7 @@
   "Create_SelectGameType": "Выберите режим игры..",
   "Create_SelectLanguage": "Выберите язык..",
   "Create_SelectLength": "Выберите длину слова..",
+  "Create_LengthDescription": "Существует {0} слов длиною в {1} букв.",
   "Create_DMs": "Будем ли играть в ЛС?",
   "Create_Done": "Вот твой ID для входа в игру: `{0}`",
   "Create_Creating": "Создаю игру..",
