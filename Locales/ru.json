@@ -21,14 +21,6 @@
   "Create_Creating": "Создаю игру..",
   "Create_LanguageDescription": "В языке {0} ({1}) на текущий момент доступно {2} слов.",
 
-  //Command: troubleshoot
-  "Troubleshoot_FindingIssues": "Поиск проблем..",
-  "Troubleshoot_Server": "Поиск сервера в базе данных",
-  "Troubleshoot_User": "Поиск игрока в базе данных",
-  "Troubleshoot_Fixing": "Исправление проблем..",
-  "Troubleshoot_Done": "Готово!",
-  "Troubleshoot_NoIssues": "Проблем нет.",
-
   //Command: settings server
   "ServerSettings_DMs": "Нельзя изменять настройки сервера в ЛС!",
   "ServerSettings_AllowCreatingChannels": "Разрешить создавать каналы",
@@ -57,6 +49,7 @@
   //General
   "Yes": "Да",
   "No": "Нет",
+  "Fixing": "Исправление проблем..",
   //I hate Russian sometimes
   "Random": "Случайн(ая/ый/ое)",
   "PleaseWait": "Пожалуйста, подождите..",

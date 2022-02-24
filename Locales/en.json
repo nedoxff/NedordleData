@@ -21,14 +21,6 @@
   "Create_Creating": "Creating the game..",
   "Create_LanguageDescription": "{0} ({1}) currently has {2} words available.",
   
-  //Command: troubleshoot
-  "Troubleshoot_FindingIssues": "Finding issues..",
-  "Troubleshoot_Server": "Checking for server in the database",
-  "Troubleshoot_User": "Checking for player in the database",
-  "Troubleshoot_Fixing": "Fixing issues..",
-  "Troubleshoot_Done": "Done!",
-  "Troubleshoot_NoIssues": "No issues found.",
-  
   //Command: settings server
   "ServerSettings_DMs": "Cannot change server settings in DMs!",
   "ServerSettings_AllowCreatingChannels": "Allow creating channels",
@@ -57,6 +49,7 @@
   //General
   "Yes": "Yes",
   "No": "No",
+  "Fixing": "Fixing issues..",
   "Random": "Random",
   "PleaseWait": "Please wait..",
   "ApplyingChanges": "Applying changes..",
