@@ -33,11 +33,17 @@
   "ServerSettings_DMs": "Cannot change server settings in DMs!",
   "ServerSettings_AllowCreatingChannels": "Allow creating channels",
   "ServerSettings_DisallowCreatingChannels": "Disallow creating channels",
-  "ServerSettings_SelectCreateCategory": "Select game storage category",
+  "ServerSettings_ChangeCreateCategory": "Change game storage category",
   "ServerSettings_Info_AllowCreatingChannels": "Allow creating channels",
   "ServerSettings_Info_CreateCategory": "Game storage category",
   "ServerSettings_Title": "Server settings",
-  "ServerSettings_SelectCategory": "Select the category..",
+  "ServerSettings_SelectCreateCategoryPlaceholder": "Select the category..",
+  
+  //Command: settings user
+  "UserSettings_Title": "User settings",
+  "UserSettings_Theme": "Theme",
+  "UserSettings_ChangeTheme": "Change the theme",
+  "UserSettings_SelectThemePlaceholder": "Select the theme..",
   
   //Metrics
   "Metrics_ms": "ms",
@@ -84,5 +90,11 @@
       "IsMultiplayer": false,
       "AllowMultipleLength": false
     }
+  },
+  
+  //Themes
+  "Themes": {
+    "default": "Default",
+    "highcontrast": "High contrast"
   }
 }

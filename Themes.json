@@ -1,7 +1,6 @@
 [
   {
-    "ShortName": "default",
-    "FullName": "Default",
+    "Id": "default",
     "BackgroundColor": "#121213",
     "CorrectColor": "#538d4e",
     "CloseColor": "#b59f3b",
@@ -11,8 +10,7 @@
     "WrongEmoji": "⬛"
   },
   {
-    "ShortName": "highcontrast",
-    "FullName": "High Contrast",
+    "Id": "highcontrast",
     "BackgroundColor": "#121213",
     "CorrectColor": "#f5793a",
     "CloseColor": "#85c0f9",

@@ -38,6 +38,12 @@
   "ServerSettings_Info_CreateCategory": "Категория для игр",
   "ServerSettings_Title": "Настройки сервера",
   "ServerSettings_SelectCategory": "Выберите категорию..",
+
+  //Command: settings user
+  "UserSettings_Title": "Настройки пользователя",
+  "UserSettings_Theme": "Тема",
+  "UserSettings_ChangeTheme": "Изменить тему",
+  "UserSettings_SelectThemePlaceholder": "Выберите тему..",
   
   //Metrics
   "Metrics_ms": "мс",
@@ -85,5 +91,11 @@
       "IsMultiplayer": false,
       "AllowMultipleLength": false
     }
+  },
+
+  //Themes
+  "Themes": {
+    "default": "Стандартная",
+    "highcontrast": "Высокий контраст"
   }
 }
