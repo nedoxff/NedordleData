@@ -52,6 +52,7 @@
   "NotPermitted": "You are not permitted to execute this command!",
   "TimedOut": "Timed out!",
   "GuildNotInDatabase": "Your server is not in the database! Please run `/troubleshoot`.",
+  "UserNotInDatabase": "You are not in the database! Please run `/troubleshoot`.",
 
   //General
   "Yes": "Yes",

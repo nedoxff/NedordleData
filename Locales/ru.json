@@ -52,6 +52,7 @@
   "NotPermitted": "У вас нет прав на выполнение этой команды!",
   "TimedOut": "Время вышло!",
   "GuildNotInDatabase": "Вашего сервера нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
+  "UserNotInDatabase": "Вас нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
   
   //General
   "Yes": "Да",
