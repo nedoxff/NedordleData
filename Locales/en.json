@@ -83,6 +83,15 @@
       "Emoji": "\uD83D\uDFE9",
       "IsMultiplayer": false,
       "AllowMultipleLength": false
+    },
+    "custom": {
+      "Name": "Custom",
+      "Id": "custom",
+      "FullDescription": "This is wordle, but you can select different word lengths and attempt counts.",
+      "ShortDescription": "Wordle, but with you own twist.",
+      "Emoji": "\uD83C\uDFB2",
+      "IsMultiplayer": false,
+      "AllowMultipleLength": true
     }
   },
   
