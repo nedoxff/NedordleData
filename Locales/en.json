@@ -83,7 +83,7 @@
       "ShortDescription": "Standard, one player wordle with 5 letters.",
       "Emoji": "\uD83D\uDFE9",
       "IsMultiplayer": false,
-      "AllowMultipleLength": false
+      "AllowDifferentLength": false
     },
     "custom": {
       "Name": "Custom",
@@ -92,7 +92,7 @@
       "ShortDescription": "Wordle, but with your own twist.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,
-      "AllowMultipleLength": true
+      "AllowDifferentLength": true
     }
   },
   
