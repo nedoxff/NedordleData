@@ -89,7 +89,7 @@
     "custom": {
       "Name": "Свой",
       "Id": "custom",
-      "FullDescription": "Тот же wordle, но можно выбрать разную длину слова и количество попыток.",
+      "FullDescription": "Тот же Wordle, но разрешается выбрать свою длину слова и количество попыток.",
       "ShortDescription": "Wordle, но со своими настройками.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,

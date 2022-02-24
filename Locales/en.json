@@ -89,7 +89,7 @@
       "Name": "Custom",
       "Id": "custom",
       "FullDescription": "This is wordle, but you can select different word lengths and attempt counts.",
-      "ShortDescription": "Wordle, but with you own twist.",
+      "ShortDescription": "Wordle, but with your own twist.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,
       "AllowMultipleLength": true
