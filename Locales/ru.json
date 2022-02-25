@@ -63,7 +63,7 @@
   "Done": "Готово!",
   "None": "Нет",
   "Apply": "Применить",
-  "Success": "Success!",
+  "Success": "Успех!",
   
   //Locale information
   "ShortName": "ru",
@@ -84,8 +84,8 @@
   //Game type (multiplayer) information
   "Game_MultiplayerInfo": "Мы начнём когда все {0} человек(а) войдут в комнату.",
   "Game_MultiplayerFull": "Эта комната уже полна!",
-  "Game_MultiplayerJoined": "{0} зашёл в игру! ({1}/{2})",
-  "Game_MultiplayerLeft": "{0} вышел из игры! ({1}/{2})",
+  "Game_MultiplayerJoined": "{0} зашёл в игру! `({1}/{2})`",
+  "Game_MultiplayerLeft": "{0} вышел из игры! `({1}/{2})`",
   
   //Game Types
   "GameTypes": {

@@ -82,8 +82,8 @@
   //Game type (multiplayer) information
   "Game_MultiplayerInfo": "We will start when all {0} people will join.",
   "Game_MultiplayerFull": "That room is already full!",
-  "Game_MultiplayerJoined": "{0} joined the game! ({1}/{2})",
-  "Game_MultiplayerLeft": "{0} left the game! ({1}/{2})",
+  "Game_MultiplayerJoined": "{0} joined the game! `({1}/{2})`",
+  "Game_MultiplayerLeft": "{0} left the game! `({1}/{2})`",
 
   //Game Types
   "GameTypes": {
