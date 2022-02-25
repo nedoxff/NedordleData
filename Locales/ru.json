@@ -82,7 +82,7 @@
   "Game_AlreadyUsed": "Это слово уже было использовано!",
 
   //Game type (multiplayer) information
-  "Game_MultiplayerInfo": "Мы начнём когда все {0} человек войдут в комнату.",
+  "Game_MultiplayerInfo": "Мы начнём когда все {0} человек(а) войдут в комнату.",
   "Game_MultiplayerFull": "Эта комната уже полна!",
   "Game_MultiplayerJoined": "{0} зашёл в игру! ({1}/{2})",
   "Game_MultiplayerLeft": "{0} вышел из игры! ({1}/{2})",
