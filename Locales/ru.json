@@ -21,6 +21,8 @@
   "Create_DoneMultiplayer": "Вот твой ID для входа в игру: `{0}`",
   "Create_Creating": "Создаю игру..",
   "Create_LanguageDescription": "В языке {0} ({1}) на текущий момент доступно {2} слов.",
+  "Create_SelectUserLimit": "Выберите количество участинков..",
+
 
   //Command: settings server
   "ServerSettings_DMs": "Нельзя изменять настройки сервера в ЛС!",
@@ -44,8 +46,11 @@
   //Error messages
   "NotPermitted": "У вас нет прав на выполнение этой команды!",
   "TimedOut": "Время вышло!",
-  "GuildNotInDatabase": "Вашего сервера нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
-  "UserNotInDatabase": "Вас нет в базе данных! Пожалуйста, попробуйте `/troubleshoot`.",
+  "CannotLeaveWhilePlaying": "Нельзя выйти из игры, которая уже началась!",
+  "UserInGame": "Эту команду нельзя выполнить во время игры!",
+  "NotSupported": "Извините, эта функция ещё не сделана.",
+  "GameNotFound": "Игра ID `{0}` не была найдена!",
+  "AlreadyStarted": "Эта игра уже началась!",
   
   //General
   "Yes": "Да",
@@ -58,6 +63,7 @@
   "Done": "Готово!",
   "None": "Нет",
   "Apply": "Применить",
+  "Success": "Success!",
   
   //Locale information
   "ShortName": "ru",
@@ -74,6 +80,12 @@
   "Game_Defeat": "Что ж, ты проиграл! Ответ был `{0}`.",
   "Game_PlayAgain": "Хотите сыграть ещё раз?",
   "Game_AlreadyUsed": "Это слово уже было использовано!",
+
+  //Game type (multiplayer) information
+  "Game_MultiplayerInfo": "Мы начнём когда все {0} человек войдут в комнату.",
+  "Game_MultiplayerFull": "Эта комната уже полна!",
+  "Game_MultiplayerJoined": "{0} зашёл в игру! ({1}/{2})",
+  "Game_MultiplayerLeft": "{0} вышел из игры! ({1}/{2})",
   
   //Game Types
   "GameTypes": {

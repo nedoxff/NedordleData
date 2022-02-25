@@ -21,6 +21,7 @@
   "Create_DoneMultiplayer": "Here is your game ID: `{0}`",
   "Create_Creating": "Creating the game..",
   "Create_LanguageDescription": "{0} ({1}) currently has {2} words available.",
+  "Create_SelectUserLimit": "Select user limit..",
   
   //Command: settings server
   "ServerSettings_DMs": "Cannot change server settings in DMs!",
@@ -44,8 +45,11 @@
   //Error messages
   "NotPermitted": "You are not permitted to execute this command!",
   "TimedOut": "Timed out!",
-  "GuildNotInDatabase": "Your server is not in the database! Please run `/troubleshoot`.",
-  "UserNotInDatabase": "You are not in the database! Please run `/troubleshoot`.",
+  "CannotLeaveWhilePlaying": "Cannot leave the game that already started!",
+  "UserInGame": "Cannot perform this command while you are in a game!",
+  "NotSupported": "Sorry, this feature is not supported yet.",
+  "GameNotFound": "Game with ID `{0}` was not found!",
+  "AlreadyStarted": "That game had already started!",
 
   //General
   "Yes": "Yes",
@@ -57,6 +61,7 @@
   "Done": "Done!",
   "None": "None",
   "Apply": "Apply",
+  "Success": "Success!",
 
   //Locale information
   "ShortName": "en",
@@ -73,6 +78,12 @@
   "Game_Defeat": "Welp, you lost! The word was `{0}`.",
   "Game_PlayAgain": "Would you like to play again?",
   "Game_AlreadyUsed": "This word was already used!",
+  
+  //Game type (multiplayer) information
+  "Game_MultiplayerInfo": "We will start when all {0} people will join.",
+  "Game_MultiplayerFull": "That room is already full!",
+  "Game_MultiplayerJoined": "{0} joined the game! ({1}/{2})",
+  "Game_MultiplayerLeft": "{0} left the game! ({1}/{2})",
 
   //Game Types
   "GameTypes": {
