@@ -86,6 +86,10 @@
   "Game_MultiplayerFull": "Эта комната уже полна!",
   "Game_MultiplayerJoined": "{0} зашёл в игру! `({1}/{2})`",
   "Game_MultiplayerLeft": "{0} вышел из игры! `({1}/{2})`",
+  "Game_MultiplayerWinner": "{0} победил!",
+  
+  //Team work game type information
+  "Game_Teamwork_Start": "Я загадал слово, жди своей очереди ;)",
   
   //Game Types
   "GameTypes": {
@@ -96,7 +100,8 @@
       "ShortDescription": "Обычный, одиночный wordle с 5ю буквами.",
       "Emoji": "\uD83D\uDFE9",
       "IsMultiplayer": false,
-      "AllowMultipleLength": false
+      "AllowMultipleLength": false,
+      "AllowDifferentAttempts": false
     },
     "custom": {
       "Name": "Свой",
@@ -105,7 +110,8 @@
       "ShortDescription": "Wordle, но со своими настройками.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,
-      "AllowMultipleLength": true
+      "AllowMultipleLength": true,
+      "AllowDifferentAttempts": true
     },
     "teamrace":
     {
@@ -116,6 +122,18 @@
       "Emoji": "\uD83C\uDFC3\u200D♂️",
       "IsMultiplayer": true,
       "AllowDifferentLength": true,
+      "AllowDifferentAttempts": false
+    },
+    "teamwork":
+    {
+      "Name": "Коллективное гадание",
+      "Id": "teamwork",
+      "FullDescription": "Ты присоединяешься к группе людей, и вместе вы отгадывает слово необычным способом. Сначала кто-то один загадывает, а потом очередь меняется! То есть, вы работаете вместо чтобы отгадать слово.",
+      "ShortDescription": "Угадай слово вместе с группой игроков!",
+      "Emoji": "\uD83E\uDD1D",
+      "IsMultiplayer": true,
+      "AllowDifferentLength": true,
+      "AllowDifferentAttempts": true
     }
   },
 

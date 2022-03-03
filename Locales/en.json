@@ -71,7 +71,7 @@
   
   //General game type information
   "Game_ChannelInfo": "The channel will be removed in one minute.",
-  "Game_Start": "I imagined a word. You can start guessing! (just type the word in chat)",
+  "Game_Start": "I picked a word. You can start guessing! (just type the word in chat)",
   "Game_InvalidLength": "Your word did not contain `{0}` letters!",
   "Game_InvalidWord": "Hmm.. I don't have this word in my dictionary..",
   "Game_Win": "Congratulations! You got the word!",
@@ -84,6 +84,10 @@
   "Game_MultiplayerFull": "That room is already full!",
   "Game_MultiplayerJoined": "{0} joined the game! `({1}/{2})`",
   "Game_MultiplayerLeft": "{0} left the game! `({1}/{2})`",
+  "Game_MultiplayerWinner": "{0} won!",
+
+  //Team work game type information
+  "Game_Teamwork_Start": "I picked a word, wait for your turn ;)",
 
   //Game Types
   "GameTypes": {
@@ -94,7 +98,8 @@
       "ShortDescription": "Standard, one player Wordle with 5 letters.",
       "Emoji": "\uD83D\uDFE9",
       "IsMultiplayer": false,
-      "AllowDifferentLength": false
+      "AllowDifferentLength": false,
+      "AllowDifferentAttempts": false
     },
     "custom": {
       "Name": "Custom",
@@ -103,7 +108,8 @@
       "ShortDescription": "Wordle, but with your own twist.",
       "Emoji": "\uD83C\uDFB2",
       "IsMultiplayer": false,
-      "AllowDifferentLength": true
+      "AllowDifferentLength": true,
+      "AllowDifferentAttempts": true
     },
     "teamrace":
     {
@@ -114,6 +120,18 @@
       "Emoji": "\uD83C\uDFC3\u200D♂️",
       "IsMultiplayer": true,
       "AllowDifferentLength": true,
+      "AllowDifferentAttempts": false
+    },
+    "teamwork":
+    {
+      "Name": "Teamwork",
+      "Id": "teamwork",
+      "FullDescription": "You join a team of people, and together you guess a word in a unusual way. First, someone guesses and then the turn switches! So you work together to guess the word.",
+      "ShortDescription": "Guess the word together with a team of players!",
+      "Emoji": "\uD83E\uDD1D",
+      "IsMultiplayer": true,
+      "AllowDifferentLength": true,
+      "AllowDifferentAttempts": true
     }
   },
   
