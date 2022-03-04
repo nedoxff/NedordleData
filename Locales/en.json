@@ -76,7 +76,6 @@
   //General game type information
   "Game_ChannelInfo": "The channel will be removed in one minute.",
   "Game_Start": "I picked a word. You can start guessing! (just type the word in chat)",
-  "Game_InvalidLength": "Your word did not contain `{0}` letters!",
   "Game_InvalidWord": "Hmm.. I don't have this word in my dictionary..",
   "Game_Win": "Congratulations! You got the word!",
   "Game_Defeat": "Welp, you lost! The word was `{0}`.",
