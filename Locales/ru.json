@@ -20,7 +20,7 @@
   "Create_DMs": "Будем ли играть в ЛС?",
   "Create_DoneMultiplayer": "Вот ваш ID для входа в игру: `{0}`",
   "Create_Creating": "Создаю игру..",
-  "Create_LanguageDescription": "В `{0}` ({1}) сейчас доступно {2} слов.",
+  "Create_LanguageDescription": "В {0} ({1}) сейчас доступно {2} слов.",
   "Create_SelectUserLimit": "Выберите количество участинков..",
   "Create_SelectAttemptLimit": "Выберите количество попыток..",
   "Create_EnterAttemptLimit": "Пожалуйста, введите количество попыток (от 1 до 2147483647)..",
@@ -98,7 +98,7 @@
   "Game_Teamwork_NotYourTurn": "Ваша очередь ещё не пришла! Пожалуйста, ждите.",
   "Game_Teamwork_AnswerSent": "Ваше слово было успешно отправлено.",
   "Game_Teamwork_Win": "Ваша команда успешно отгадала слово!",
-  "Game_Teamwork_Defeat": "Ваша команда не смогла отгадать слово! Ответ был `{0}`",
+  "Game_Teamwork_Defeat": "Ваша команда не смогла отгадать слово! Ответ был `{0}`.",
   
   //Game Types
   "GameTypes": {

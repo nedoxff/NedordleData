@@ -96,7 +96,7 @@
   "Game_Teamwork_NotYourTurn": "It's currently not your turn! Please wait.",
   "Game_Teamwork_AnswerSent": "Your word had been successfully sent.",
   "Game_Teamwork_Win": "Your team had successfully guessed the word!",
-  "Game_Teamwork_Defeat": "Your team failed to guess the word! The word was `{0}`",
+  "Game_Teamwork_Defeat": "Your team failed to guess the word! The word was `{0}`.",
 
   //Game Types
   "GameTypes": {
