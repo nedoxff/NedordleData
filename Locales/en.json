@@ -52,6 +52,7 @@
   "NotSupported": "Sorry, this feature is not supported yet.",
   "GameNotFound": "Game with ID `{0}` was not found!",
   "AlreadyStarted": "That game had already started!",
+  "NotInGame": "You are not in a game!",
 
   //General
   "Yes": "Yes",
