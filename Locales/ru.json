@@ -18,10 +18,12 @@
   "Create_SelectLength": "Выберите длину слова..",
   "Create_LengthDescription": "Существует {0} слов длиною в {1} букв.",
   "Create_DMs": "Будем ли играть в ЛС?",
-  "Create_DoneMultiplayer": "Вот твой ID для входа в игру: `{0}`",
+  "Create_DoneMultiplayer": "Вот ваш ID для входа в игру: `{0}`",
   "Create_Creating": "Создаю игру..",
-  "Create_LanguageDescription": "В языке {0} ({1}) на текущий момент доступно {2} слов.",
+  "Create_LanguageDescription": "В `{0}` ({1}) сейчас доступно {2} слов.",
   "Create_SelectUserLimit": "Выберите количество участинков..",
+  "Create_SelectAttemptLimit": "Выберите количество попыток..",
+  "Create_EnterAttemptLimit": "Пожалуйста, введите количество попыток (от 1 до 2147483647)..",
 
 
   //Command: settings server
@@ -64,6 +66,8 @@
   "None": "Нет",
   "Apply": "Применить",
   "Success": "Успех!",
+  "Custom": "Своё значение",
+  "Unlimited": "Без ограничений",
   
   //Locale information
   "ShortName": "ru",
@@ -87,9 +91,14 @@
   "Game_MultiplayerJoined": "{0} зашёл в игру! `({1}/{2})`",
   "Game_MultiplayerLeft": "{0} вышел из игры! `({1}/{2})`",
   "Game_MultiplayerWinner": "{0} победил!",
-  
-  //Team work game type information
-  "Game_Teamwork_Start": "Я загадал слово, жди своей очереди ;)",
+
+  //Game Type: teamwork
+  "Game_Teamwork_Start": "Я загадал слово, ждите вашей очереди ;)",
+  "Game_Teamwork_YourTurn": "Пришла ваша очередь! Введите слово..",
+  "Game_Teamwork_NotYourTurn": "Ваша очередь ещё не пришла! Пожалуйста, ждите.",
+  "Game_Teamwork_AnswerSent": "Ваше слово было успешно отправлено.",
+  "Game_Teamwork_Win": "Ваша команда успешно отгадала слово!",
+  "Game_Teamwork_Defeat": "Ваша команда не смогла отгадать слово! Ответ был `{0}`",
   
   //Game Types
   "GameTypes": {

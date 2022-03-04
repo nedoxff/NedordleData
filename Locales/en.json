@@ -22,6 +22,8 @@
   "Create_Creating": "Creating the game..",
   "Create_LanguageDescription": "{0} ({1}) currently has {2} words available.",
   "Create_SelectUserLimit": "Select user limit..",
+  "Create_SelectAttemptLimit": "Select attempt limit..",
+  "Create_EnterAttemptLimit": "Please enter the attempt limit (from 1 to 2147483647)..",
   
   //Command: settings server
   "ServerSettings_DMs": "Cannot change server settings in DMs!",
@@ -62,6 +64,8 @@
   "None": "None",
   "Apply": "Apply",
   "Success": "Success!",
+  "Custom": "Custom",
+  "Unlimited": "Unlimited",
 
   //Locale information
   "ShortName": "en",
@@ -86,8 +90,13 @@
   "Game_MultiplayerLeft": "{0} left the game! `({1}/{2})`",
   "Game_MultiplayerWinner": "{0} won!",
 
-  //Team work game type information
+  //Game Type: teamwork
   "Game_Teamwork_Start": "I picked a word, wait for your turn ;)",
+  "Game_Teamwork_YourTurn": "It's your turn to guess! Enter the word..",
+  "Game_Teamwork_NotYourTurn": "It's currently not your turn! Please wait.",
+  "Game_Teamwork_AnswerSent": "Your word had been successfully sent.",
+  "Game_Teamwork_Win": "Your team had successfully guessed the word!",
+  "Game_Teamwork_Defeat": "Your team failed to guess the word! The word was `{0}`",
 
   //Game Types
   "GameTypes": {
